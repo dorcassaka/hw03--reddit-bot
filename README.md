@@ -21,6 +21,9 @@ Here's the output from running the bot_counter.py file.
 I believe my score should be a 25/20.
 
 Here's the breakdown:
+
+**Required**
+
 - [x] 6 tasks on boy.py file each worth 2 points (12 points total) 
 - [x] Github repository (2 points total) 
 - [x] Getting at least 100 comments posted (2 points total)
@@ -35,7 +38,7 @@ Here's the breakdown:
 - [x] Have your bot post new submissions to the /r/csci040 subreddit. (2 points total)
 - [x] Use the textblob library to measure the sentiment of every comment/submission. (2 poiints total)
 
-**Grand Total: ** 25/20 
+**Grand Total:** 25/20 
 
 I did not complete the following tasks:
 - Create an army of at least 10 bots that all upvote posts according to the same criteria. (worth 2 points)
