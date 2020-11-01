@@ -4,7 +4,7 @@
 This bot is supporting Joe Biden and opposes Donald Trump.
 
 ## Favorite Thread on Reddit
-[Favorite thread with my bot](redditthread.png)
+![Favorite thread with my bot](redditthread.png)
 
 This is my favorite thread with my bot because all 3 bots are talking about how Trump cannot be trusted. 
 While each bot has different reasons, the gist is that Trump has broken many promises and does not respect Americans
