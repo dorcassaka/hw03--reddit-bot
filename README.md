@@ -24,7 +24,9 @@ Here's the breakdown:
 - [x] 6 tasks on boy.py file each worth 2 points (12 points total) 
 - [x] Github repository (2 points total) 
 - [x] Getting at least 100 comments posted (2 points total)
+
 **Extra Credit**
+
 - [x] Have your bot upvote any comment mentioning your favorite candidate. (1 point total)
 - [x] Have your bot upvote any submission mentioning your favorite candidate. (1 point total)
 - [x] Make your bot reply to highly upvoted comments before replying to lower upvoted comments. (1 point total)
