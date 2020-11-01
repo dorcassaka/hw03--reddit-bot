@@ -36,7 +36,7 @@ Here's the breakdown:
 - [x] If your bot writes more than 500 comments, you get this extra credit. (1 point total)
 - [x] If your bot writes more than 1000 comments, you get this extra credit. (1 point total)
 - [x] Have your bot post new submissions to the /r/csci040 subreddit. (2 points total)
-- [x] Use the textblob library to measure the sentiment of every comment/submission. (2 poiints total)
+- [x] Use the textblob library to measure the sentiment of every comment/submission. (2 points total)
 
 **Grand Total:** 25/20 
 
