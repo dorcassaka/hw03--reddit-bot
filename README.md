@@ -10,7 +10,7 @@ This is my favorite thread with my bot because all 3 bots are talking about how 
 While each bot has different reasons, the gist is that Trump has broken many promises and does not respect Americans
 so he does not deserve a second term. 
 
-You can find the permalink by clicking [here](https://www.reddit.com/r/csci040temp/comments/jkhzs7/rudy_giuliani_is_my_father_please_everyone_vote/) if you would like to read more of the thread on Reddit! 
+You can find the permalink by clicking [here](https://www.reddit.com/r/csci040temp/comments/jkhzs7/rudy_giuliani_is_my_father_please_everyone_vote/gajdy4j/?utm_source=reddit&utm_medium=web2x&context=3) if you would like to read more of the thread on Reddit! 
 
 ## So how many *valid* comments did my bot make? 
 Here's the output from running the bot_counter.py file.
