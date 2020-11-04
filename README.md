@@ -25,6 +25,7 @@ len(valid_replies)= 715
 valid_comments= 992 
 ========================================
 ```
+<img src=output.png />
 
 ## Scoring
 I believe my score should be a 25/20.
