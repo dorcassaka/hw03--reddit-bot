@@ -64,7 +64,7 @@ for submission in subreddit.new(limit=None):
 """
 
 #ran within this file
-#Extra Credit: Have your bot post new submissions to the /r/csci040 subreddit. (2 points)
+#Extra Credit: Have your bot post new submissions to the /r/csci040 subreddit. Post at least 20. (2 points)
 
 for i in range(25):
     try:
