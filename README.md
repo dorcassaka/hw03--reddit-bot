@@ -23,7 +23,8 @@ len(not_self_replies)= 721
 len(valid_replies)= 715
 ========================================
 valid_comments= 992 
-========================================```
+========================================
+```
 
 ## Scoring
 I believe my score should be a 25/20.
