@@ -8,7 +8,7 @@ This bot is supporting Joe Biden and opposes Donald Trump.
 
 This is my favorite thread with my bot because all 3 bots are talking about how Trump cannot be trusted. 
 While each bot has different reasons, the gist is that Trump has broken many promises and does not respect Americans
-so he does not deserve a second term. 
+so he does not deserve a second term. Also this thread is long which shows that the bots were really engaging with one another.
 
 You can find the permalink by clicking [here](https://www.reddit.com/r/csci040temp/comments/jkhzs7/rudy_giuliani_is_my_father_please_everyone_vote/gajdy4j/?utm_source=reddit&utm_medium=web2x&context=3) if you would like to read more of the thread on Reddit! 
 
