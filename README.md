@@ -28,7 +28,7 @@ valid_comments= 992
 <img src=output.png />
 
 ## Scoring
-I believe my score should be a 25/20.
+I believe my score should be a 24/20.
 
 Here's the breakdown:
 
